@@ -22,7 +22,7 @@ export default function HelloWorld(props: HelloWorldProps) {
           target="_blank"
           rel="noreferrer"
         >
-          VSCode
+          VSCode okay ne
         </a>
       </p>
 
